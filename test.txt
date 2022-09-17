@@ -1,3 +1,2 @@
 Es un contenido de prueba
-agrego un linea1
 agrego un linea2
